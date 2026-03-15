@@ -1,1 +1,2 @@
-niman = Print("Hello paco")
+niman = "hello world"
+print(niman)
